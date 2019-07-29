@@ -1,4 +1,6 @@
-## Welcome to my github  gut hub
+## HELLO, I'M
+Priya Singh
+Java Develper 
 
 You can use the [editor on GitHub](https://github.com/Priyasingh577/MyPortfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
