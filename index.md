@@ -2,10 +2,8 @@
 Priya Singh
 Java Develper 
 
-You can use the [editor on GitHub](https://github.com/Priyasingh577/MyPortfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+I create responsive websites, Yes I am a Developer
+I developed Websites for different purposes, according to client requirement, which help them to digitilaize their work and give a digital paltform for advertise.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
