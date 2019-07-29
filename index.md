@@ -6,7 +6,6 @@ I create responsive websites, Yes I am a Developer
 I developed Websites for different purposes, according to client requirement, which help them to digitilaize their work and give a digital paltform for advertise.
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
